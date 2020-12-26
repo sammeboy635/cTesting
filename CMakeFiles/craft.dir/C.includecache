@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/samuel/Documents/C/Testing/src/cube.c
+stdio.h
+-
+cube.h
+/Users/samuel/Documents/C/Testing/src/cube.h
+
+/Users/samuel/Documents/C/Testing/src/cube.h
+
